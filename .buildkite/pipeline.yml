@@ -1,2 +1,2 @@
 steps:
-  - command: "sleep 11 && true"
+  - command: "sleep 12 && true"
