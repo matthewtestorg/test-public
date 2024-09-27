@@ -1,3 +1,6 @@
 steps:
   - command: "sleep 250 && true"
+  - command: "sleep 11 && true"
+  - command: "sleep 14 && true"
+  - command: "sleep 60 && true"
   - command: "sleep 13 && true"
